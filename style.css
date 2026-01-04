@@ -1,0 +1,31 @@
+body{
+  font-family: Arial, sans-serif;
+  margin:0;
+  background:#0f172a;
+  color:white;
+  text-align:center;
+}
+
+header{
+  background:#020617;
+  padding:40px 20px;
+}
+
+section{
+  padding:20px;
+}
+
+ul{
+  list-style:none;
+  padding:0;
+}
+
+li{
+  margin:6px 0;
+}
+
+footer{
+  background:#020617;
+  padding:12px;
+  margin-top:20px;
+}
